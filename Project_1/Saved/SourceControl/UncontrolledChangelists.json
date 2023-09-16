@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/StarterContent/Props/MaterialSphere.uasset"
+			]
+		}
+	]
+}
