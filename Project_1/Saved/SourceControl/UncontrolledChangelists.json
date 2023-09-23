@@ -70,6 +70,10 @@
 				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/FirstPerson/Input/IMC_Weapons.uasset",
 				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/FirstPerson/Input/Actions/IA_Shoot.uasset",
 				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/Tutorial_2/Blueprints/Character/InputActions/IA_Jump.uasset",
+				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
+				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/Tutorial_2/Blueprints/Character/IMC_Default.uasset",
 				"G:/Ontario Tech Game Dev/GitHub Shared Projects/GDW-V-Tutorial-1/Project_1/Content/FirstPerson/Maps/Tutorial_2.umap"
 			]
 		}
